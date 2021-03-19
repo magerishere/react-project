@@ -1,0 +1,29 @@
+.pagination {
+  margin: 0 auto;
+}
+.pagination li {
+  padding: 15px;
+  font-size: 20px;
+  border: 1px solid black;
+  margin-bottom: 50px;
+}
+
+.pagination li:hover {
+  cursor: pointer;
+  background-color: blue;
+}
+.pagination li:active {
+  background-color: blue;
+}
+
+.pagination li:visited {
+  background-color: blue;
+}
+
+
+.pagination p {
+  font-weight: bold;
+  margin-left: 5px;
+  margin-top: 35px;
+  opacity: 50%;
+}
